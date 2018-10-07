@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void acll(View view) {
-        System.out.println("按钮被点击了");
+        System.out.println("按钮被点击");
     }
 
     @Override

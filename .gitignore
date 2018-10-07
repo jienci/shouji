@@ -12,6 +12,8 @@
 
 
 
+
+
 *.apk
 *.ap_
 *.dex
@@ -27,3 +29,4 @@ out/
 proguard/
 .navigation/
 /app/build
+
